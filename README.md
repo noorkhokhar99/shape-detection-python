@@ -29,7 +29,7 @@ pip install -r requirements.txt
 `
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/YOLOv8-COMPLETE-Tutorial-Object-Detection-Segmentation-Classification/blob/main/figure2.png">
+<img src="https://github.com/noorkhokhar99/shape-detection-python/blob/main/Screen%20Shot%202023-02-11%20at%2010.34.17%20pm.png">
 </p>
 
 
