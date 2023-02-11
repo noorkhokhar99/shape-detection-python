@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
  - Run 
  
-`python test.py`
+`python detect_shapes.py --image shapes_and_colors.png`
 
 `
 
